@@ -1,7 +1,5 @@
 # bash-auto-archive-large-files
 
-# Bash Auto Archive Large Files
-
 A simple Bash script to help automate the archiving of large files on your system.  
 This script finds files larger than 20MB in a specified directory, compresses them using `gzip`, and moves the compressed files to an archive folder.
 
